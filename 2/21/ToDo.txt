@@ -1,0 +1,23 @@
+Añadir:
+
+	- Helicoils con la pseudabandeja
+	- Insertos para compuesto
+	- Tornillos
+	- Cableado
+
+
+Arreglar:
+
+	- Chamfers, edge fillets que se pueda fabricar
+
+
+
+Constantemente:
+
+	- Revisar casos extremos, que no falle nada de lo parametrizado
+
+Bonus:
+
+	- Análsis FEM (intentar hacer profundidad vaciados lo mayor posible), max reduccion de peso
+
+
